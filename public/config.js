@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '夜半观星网站检测',
+  SiteName: '夜半观星网站监测',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,7 +24,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: '博客',
       url: 'https://www.ratodo.com'
     }
   ]
